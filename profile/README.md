@@ -10,10 +10,6 @@
 - **User-Friendly Interface:** A straightforward design that makes media downloading quick and easy.
 - **Free to Use:** All the features are available at no cost to the user.
 
-## Installation
 
-### Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/LinkLoader.git
-cd LinkLoader
+
